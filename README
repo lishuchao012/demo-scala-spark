@@ -1,0 +1,14 @@
+
+1. visit http://alchim31.free.fr/m2e-scala/update-site/ 
+   download zip 
+   put "features" and "plugins" in your eclipse folder "eclipse/dropins/Scala/" 
+   restart eclipse 
+   new scala project 
+   
+2. pom import b
+   <dependency>
+    <groupId>org.apache.spark</groupId>
+    <artifactId>spark-core_2.11</artifactId>
+    <version>2.2.1</version>
+  </dependency>
+  
